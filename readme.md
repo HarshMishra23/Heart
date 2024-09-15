@@ -33,7 +33,11 @@ https://cosmic-unicorn-2398c9.netlify.app/
 ## Screenshots
 ![alt](./image%20copy.png)
 
+## 🤝 Contributing
+#### Join us in keeping the Heart Project vibrant and full of life! We welcome contributions through pull requests and issue reports. Your involvement helps keep the project's heartbeat strong and active.
 
-## Feedback
+## 📫 Contact
+#### For any questions or feedback, reach out via:
 
-If you have any feedback, please reach out to me at hm45676777776@gmail.com
+#### **Email:** hm45676777776@gmail.com
+#### **GitHub:** HarshMishra23
