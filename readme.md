@@ -31,7 +31,7 @@ HTML, CSS
 https://cosmic-unicorn-2398c9.netlify.app/
 
 ## Screenshots
-![alt](./image.png)
+![alt](./image%20copy.png)
 
 
 ## Feedback
