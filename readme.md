@@ -6,6 +6,8 @@
 
 ## Project Title - Heart project
 
+#### Welcome to the Heart Project! Just like a heartbeat keeps the body alive, this project is the pulse of for learning purpose. It’s designed to keep your heart beating strong with innovative solutions and dynamic features.
+
 
 ## Average time to complete
 #### 4 hrs
