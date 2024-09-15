@@ -23,7 +23,9 @@
 ## 🛠 Skills
 HTML, CSS
 
+## 📱 Responsive Design
 
+#### The Heart Project is built to be fully responsive. Whether you’re using a mobile phone, tablet, or desktop, the application adapts smoothly to provide a seamless user experience.
 
 ## Demo | Netlify
 https://cosmic-unicorn-2398c9.netlify.app/
