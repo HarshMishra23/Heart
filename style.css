@@ -102,3 +102,33 @@ body {
     }
 
 }
+
+@media (min-width: 0px) and (max-width: 570px) {
+    body {
+        background-color: darkolivegreen;
+    }
+}
+
+@media only screen and (max-width: 570px) and (max-width:800) {
+    body {
+      background-color: black;
+    }
+  }
+
+  @media (min-width: 800px) and (max-width: 1000px) {
+    body {
+        background-color: gray;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1400px) {
+    body {
+        background-color: blue;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1651px) {
+    body {
+        background-color: sandybrown;
+    }
+}
